@@ -1,0 +1,7 @@
+目标文件:C:\Users\veepoo\Desktop\E-05_UI_2.1-20190629-文件\E_05_1003_UI_V2.1_CRC_0_20190629.bin   大小:0x00793E6A
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      C:\Users\veepoo\Desktop\E-05_UI_2.1-20190629-文件\维亿魄-字库源文件-20180706.bin        0x00200000        0x00000000             否
+ 2      C:\Users\veepoo\Desktop\E-05_UI_2.1-20190629-文件\gui_flash_data_20190629_133943_f69a.bin        0x00593E6A        0x00200000             否
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
